@@ -1,6 +1,6 @@
 package sv.edu.udb.www.beans;
 
-//Comentario prueba
+//
 
 public class Cupon {
 	private String codigo;
