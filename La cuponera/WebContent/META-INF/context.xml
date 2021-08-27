@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE xml>
-<Context path="/lacuponera_MVC">
-	<Resource name="jdbc/mysql" auth="Container"
-		type="javax.sql.DataSource" maxActive="20" maxIdle="10" maxWait="5000"
-		username="root" password="" driverClassName="com.mysql.jdbc.Driver"
-		url="jdbc:mysql://localhost/lacuponerabdd" />
-</Context>
